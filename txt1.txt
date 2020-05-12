@@ -1,1 +1,3 @@
-txt1.txt
+public static void main(String[] args){
+
+}
