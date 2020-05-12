@@ -1,4 +1,6 @@
 public static void main(String[] args){
-	private int a=1;
 
+	private int a=1;
+	private String str1='abcd';
 }
+
